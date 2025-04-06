@@ -1,0 +1,23 @@
+{
+  "name": "pqxdh",
+  "version": "1.0.0",
+  "main": "dist/pqxdh/demo.js",
+  "scripts": {
+    "build": "tsc",
+    "pq:xdh": "node dist/pqxdh/demo.js",
+    "x3dh": "node dist/x3dh/demo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "PQXDH (Post-Quantum Extended Triple Diffie-Hellman) protocol implementation in TypeScript",
+  "dependencies": {
+    "@noble/curves": "^1.8.1",
+    "@noble/hashes": "^1.7.1",
+    "@types/crypto-js": "^4.1.1",
+    "@types/node": "^20.11.24",
+    "crypto-js": "^4.2.0",
+    "mlkem": "^1.0.0",
+    "typescript": "^5.3.3"
+  }
+}
