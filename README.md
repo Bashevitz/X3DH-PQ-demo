@@ -26,8 +26,8 @@ PQXDH is a cryptographic protocol that combines post-quantum cryptography with t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pqxdh.git
-cd pqxdh
+git clone https://github.com/Bashevitz/X3DH-PQ-demo.git
+cd X3DH-PQ-demo
 ```
 
 2. Install dependencies:
